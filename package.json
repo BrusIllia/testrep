@@ -1,0 +1,24 @@
+{
+  "name": "testrep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/BrusIllia/testrep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrusIllia/testrep/issues"
+  },
+  "homepage": "https://github.com/BrusIllia/testrep#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "http": "^0.0.1-security"
+  }
+}
